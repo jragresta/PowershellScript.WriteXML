@@ -1,5 +1,5 @@
 # PowershellScript.WriteXML
-Powershell script used to parse data of parametric tool data from csv file into template XML which could be imported to various tooling programs the client uses. 
+Powershell script used to parse data of parametric tool data from csv file into template XML. 
 
 Within the script the location of the template XML is specified along witht the location of the data
 
